@@ -1,4 +1,4 @@
-# Title: "BJ's EasyClip: One-Click Coupon Clipping"
+# Title: BJ's EasyClip: One-Click Coupon Clipping
 
 ## Description:
 "Maximize your savings at BJ's Wholesale Club with the BJ's EasyClip Chrome Extension! Designed to simplify your shopping experience, this handy tool automatically clips coupons for you with just one click. Say goodbye to the hassle of manually selecting each coupon. Whether you're a frequent BJ's shopper or just looking for more convenient ways to save, BJ's EasyClip is your perfect shopping companion.
